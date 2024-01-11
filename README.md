@@ -6,7 +6,7 @@
 3. Ping the hostname using your username chosen in the settings from step 1: **ping hostname.local**
 4. Copy IP address and ssh into the pi: **ssh username@ip_address**
 5. Download Kiauh. Install Klipper, Moonscraper, and Mainsail
-6. Access Mailsail from browser - use hostname.local you pinged earlier to access Moonsail web interface: http://klipperpi.local
+6. Access Mainsail from browser - use hostname.local you pinged earlier to access Moonsail web interface: http://klipperpi.local
 
 ## Build & flash firmware for the 3D Printer
 After installing Klipper, Moonscraper, and Mainsail, the 3D printer needs to run the Klipper firmware. The Ender 5-S1’s original firmware is Marlin, so we need to build and flash the Klipper firmware onto the machine to replace it.
